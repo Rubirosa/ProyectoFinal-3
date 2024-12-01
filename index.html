@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/vendors/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/vendors/Style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+    <link rel="stylesheet" href="assets/css/vendors/toastr/toastr.min.css">
+
+    <title>Horario de Asignaturas</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+
+            <div id="content-container" class="col-md-8 offset-2 mt-5">
+
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item active" aria-current="page" <a href="">Datos Personales</a></li>
+                    </ol>
+                </nav>
+                <div class="card">
+                    <div class="card-header bg-dark text-light">
+                        <h5 class="text-center">Datos Personales</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-1">
+                            <label for="name" class="form-label">Nombre:</label>
+                            <input class="form-control" type="text" aria-label="default input example" id="name">
+                        </div>
+                        <div class="mb-1">
+                            <label for="country" class="form-label">Provincia:</label>
+                            <input class="form-control" type="text" aria-label="default input example" id="country">
+                        </div>
+                        <div class="mb-1">
+                            <label for="City" class="form-label">Ciudad:</label>
+                            <input class="form-control" type="text" aria-label="default input example" id="City">
+                        </div>
+                        <div class="mb-1">
+                            <label for="sector" class="form-label">Sector:</label>
+                            <input class="form-control" type="text" aria-label="default input example" id="sector">
+                        </div>
+                        <div class="mb-1">
+                            <label for="street" class="form-label">Calle:</label>
+                            <input class="form-control" type="text" aria-label="default input example" id="street">
+                        </div>
+                        <div class="mb-4">
+                            <label for="carrier" class="form-label">Carrera:</label>
+                            <select class="form-select" id="carrier">
+                                <option value="">Seleccione una Opcion</option>
+                                <option value="Software">Software</option>
+                                <option value="Mecatronica">Mecatronica</option>
+                                <option value="Redes">Redes</option>
+                            </select>
+                        </div>
+                        <div>
+                            <button class="btn btn-outline-primary float-end" id="btn-register">
+                                Registrar</button>
+                            <button class="btn btn-outline-warning float-end me-2" id="btn-reset">
+                                Limpiar
+
+
+                            </button>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/vendors/Bootstrap/bootstrap.min.js"></script>
+    <script src="assets/js/vendors/jquery/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/vendors/toastr/toastr.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+    <script src="assets/js/Site/index.js"></script>
+
+</body>
+
+</html>

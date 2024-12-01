@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ArkGaming\\Desktop\\Coding\\Projects\\ProyectoFinalProgramming3\\Test SubSelcet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AECBA57D-1AF2-4AEB-9125-6A18B40396D4}|TestProject1.csproj|c:\\users\\arkgaming\\desktop\\coding\\projects\\proyectofinalprogramming3\\test subselcet\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECBA57D-1AF2-4AEB-9125-6A18B40396D4}|TestProject1.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ArkGaming\\Desktop\\Coding\\Projects\\ProyectoFinalProgramming3\\Test SubSelcet\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ArkGaming\\Desktop\\Coding\\Projects\\ProyectoFinalProgramming3\\Test SubSelcet\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:06:09.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
